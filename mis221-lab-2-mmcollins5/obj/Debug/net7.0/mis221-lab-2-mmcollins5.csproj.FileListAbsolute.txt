@@ -1,0 +1,15 @@
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\bin\Debug\net7.0\mis221-lab-2-mmcollins5.exe
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\bin\Debug\net7.0\mis221-lab-2-mmcollins5.deps.json
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\bin\Debug\net7.0\mis221-lab-2-mmcollins5.runtimeconfig.json
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\bin\Debug\net7.0\mis221-lab-2-mmcollins5.dll
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\bin\Debug\net7.0\mis221-lab-2-mmcollins5.pdb
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.csproj.AssemblyReference.cache
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.AssemblyInfoInputs.cache
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.AssemblyInfo.cs
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.csproj.CoreCompileInputs.cache
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.dll
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\refint\mis221-lab-2-mmcollins5.dll
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.pdb
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\mis221-lab-2-mmcollins5.genruntimeconfig.cache
+C:\Users\melis\mis221\source\Labs\mis221-lab-2-mmcollins5\obj\Debug\net7.0\ref\mis221-lab-2-mmcollins5.dll
